@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kutzk1211
 - 👀 I’m interested in Frontend and Backend Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently using Javascript, React, MongoDb, Express, Node and other Front-End Technologies
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ...
 
